@@ -1,2 +1,6 @@
 # first-trial
-just testing it out
+
+# print "hello my name is yeukai_chi"
+
+print("hello my name is yeukai_chi)
+
